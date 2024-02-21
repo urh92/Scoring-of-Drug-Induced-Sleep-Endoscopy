@@ -1,0 +1,13 @@
+{
+  "batch_size": 8,
+  "weight_decay": 0.0005,
+  "beta1": 0.5,
+  "beta2": 0.999,
+  "n_channels": 1,
+  "t_dim": 125,
+  "dropout": 0.2,
+  "lr": 0.00001,
+  "epochs": 10,
+  "train_fraction": 0.9,
+  "checkpoint_dir": "C:/Users/umaer/Documents/sleepEndoscopy/Checkpoints/"
+}
